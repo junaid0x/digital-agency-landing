@@ -2,7 +2,7 @@ Modern Digital Agency Landing Page
 A high-performance, responsive landing page designed for professional service providers and digital agencies.
 
 🚀 Live Demo
-Coming Soon
+ https://digital-agency-landing-nine.vercel.app
 
 🛠️ Engineering Highlights
 This project serves as a showcase of modern frontend architecture, focusing on rapid styling with Tailwind CSS and component reusability in React.
