@@ -1,25 +1,53 @@
-Modern Digital Agency Landing Page 
-A high-performance, responsive landing page designed for professional service providers and digital agencies.
+# Digital Agency Landing Page
+
+A modern and responsive landing page designed for a digital agency. The project focuses on clean design, smooth user experience, and responsive layouts to effectively showcase services and engage potential clients across all devices.
+
+## ✨ Features
+
+- Modern landing page design
+- Responsive layout
+- Smooth scrolling navigation
+- Services showcase
+- Call-to-action sections
+- Contact section
+- Optimised performance
+- Mobile-friendly interface
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/junaid0x/digital-agency-landing.git
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the project
+
+```bash
+npm run dev
+```
 
 🚀 Live Demo
  https://digital-agency-landing-nine.vercel.app
+- Contact Section
 
-🛠️ Engineering Highlights
-This project serves as a showcase of modern frontend architecture, focusing on rapid styling with Tailwind CSS and component reusability in React.
+## 👨‍💻 Author
 
-- Responsive Architecture: Built with a "Mobile-First" approach, ensuring a flawless experience across all devices using Tailwind's utility-first breakpoints.
-- Optimized UI Components:** Developed modular, reusable React components (Navbar, Hero, Services, Testimonials) to ensure clean, maintainable code.
-- Modern Styling: Leveraged Tailwind CSS for custom themes, transitions, and sophisticated hover effects without the bloat of traditional CSS files.
-- Performance Focused: Minimalist asset loading and React functional components for fast rendering and smooth user transitions.
+**Junaid**
 
-💻 Tech Stack
-- Framework: React.js 
-- Styling: Tailwind CSS
-- Animations: Framer Motion
-- Icons: React Icons
 
-📦 How to Run Locally
-1. git clone https://github.com/junaid0x/digital-agency-landing.git
-2. npm install
-3. npm run dev
 
